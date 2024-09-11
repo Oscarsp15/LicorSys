@@ -38,7 +38,6 @@ El sistema fue diseñado para la licorería **Vinos y Licores Andrea**, ubicada 
 
 ## Tecnologías Utilizadas
 - **Lenguaje de Programación**: Java
-- **Frameworks**: Spring Boot
 - **Base de Datos**: MySQL
 - **Metodología**: SOAP
 - **Frontend**: HTML, CSS, JavaScript
@@ -50,7 +49,7 @@ El sistema sigue una arquitectura orientada a servicios (SOA) basada en SOAP par
 ## Diagrama Entidad-Relación
 El modelo entidad-relación define las relaciones entre empleados, usuarios, productos, proveedores y clientes, facilitando la gestión de inventarios y ventas.
 
-![Diagrama ER](Diagrama de ER.png)
+![Diagrama ER](Diagrama%20de%20ER.png)
 
 ## Instalación
 
