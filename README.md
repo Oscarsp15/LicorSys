@@ -1,4 +1,4 @@
-# Sistema de Gestión de Ventas y Abastecimiento para Licorería
+# Sistema de Gestión de Ventas y Abastecimiento para una Licorería
 
 Este proyecto es un sistema web para la gestión de ventas y abastecimiento de una licorería, desarrollado en Java utilizando la metodología SOAP. La solución automatiza el control de inventarios, compras y ventas, mejorando la eficiencia del negocio.
 
@@ -50,11 +50,6 @@ El sistema sigue una arquitectura orientada a servicios (SOA) basada en SOAP par
 El modelo entidad-relación define las relaciones entre empleados, usuarios, productos, proveedores y clientes, facilitando la gestión de inventarios y ventas.
 
 ![Diagrama ER](Diagrama%20de%20ER.png)
-
-## Instalación
-
-   Clona el repositorio: `git clone https://github.com/Oscarsp15/LicorSys.git`
- 
 
 ## Contribuciones
 
