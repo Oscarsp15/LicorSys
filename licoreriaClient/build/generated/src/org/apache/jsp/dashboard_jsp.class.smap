@@ -1,0 +1,18 @@
+SMAP
+dashboard_jsp.java
+JSP
+*S JSP
+*F
++ 0 dashboard.jsp
+dashboard.jsp
++ 1 head.jsp
+templeate/head.jsp
++ 2 footer.jsp
+templeate/footer.jsp
+*L
+1,4:50
+1#1,179:53
+4#0,73:232
+1#2,100:304
+76#0,68:404
+*E

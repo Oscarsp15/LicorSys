@@ -1,0 +1,12 @@
+SMAP
+nuevo_jsp.java
+JSP
+*S JSP
+*F
++ 0 nuevo.jsp
+view/proveedor/nuevo.jsp
+*L
+1:44,2
+2,93:46
+94:138,3
+*E
