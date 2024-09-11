@@ -50,7 +50,7 @@ El sistema sigue una arquitectura orientada a servicios (SOA) basada en SOAP par
 ## Diagrama Entidad-Relación
 El modelo entidad-relación define las relaciones entre empleados, usuarios, productos, proveedores y clientes, facilitando la gestión de inventarios y ventas.
 
-![Diagrama ER](#)
+![Diagrama ER](Diagrama de ER.png)
 
 ## Instalación
 
